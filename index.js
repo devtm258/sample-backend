@@ -22,7 +22,7 @@ const githubData = {
 };
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('Dhur Baal!');
 });
 
 app.get('/github', (req, res) => {
